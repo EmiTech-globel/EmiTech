@@ -1,0 +1,132 @@
+======== HEADER ========
+.nav__logo
+EmiTech
+
+.nav__link
+Home - Courses - About - Contact
+
+
+======== HOME ========
+.home__title
+Welcome to Your Future in Digital <br> Design & Development!
+
+.home__description
+Unlock your potential with expert training 
+in web design, development, graphic design, 
+and more.
+
+.button
+Get Started - Login
+
+
+======== COURSES ========
+.section__title
+Courses
+
+.section__description
+Are you ready to elevate your skills in the fast-paced 
+world of digital design and development? At EmiTech,
+we offer comprehensive training programs that transform 
+beginners into experts across various fields
+
+.Courses__title .Courses__description
+Web Design
+Learn the fundamentals of creating 
+beautiful and user-friendly websites,
+including HTML, CSS, and basic design
+principles.
+
+Web Development
+Master both back-end and front-end development 
+with the latest technologies like JavaScript, 
+React, Node.js, and database management.
+
+Graphic Design
+Explore the basics of graphic design,
+including color theory, typography, 
+and using tools like Adobe Photoshop 
+and Illustrator.
+
+Branding & Identity <br> Design
+Develop skills to create unique and cohesive 
+brand identities, including logo design, color 
+schemes, and brand guidelines.
+
+Mobile App <br> Design
+Discover how to design intuitive and engaging
+mobile applications, covering user experience 
+(UX) and user interface (UI) design.
+
+3D Design
+Learn the basics of 3D modeling and animation
+using software like Blender or Autodesk Maya, 
+and create realistic 3D objects and environments.
+
+
+======== ABOUT ========
+.section__title
+Get to Know Us
+
+.about__description
+At EmiTech, we are passionate about empowering individuals
+through top-notch training in digital design and development. 
+Our team of industry experts brings a wealth of experience and 
+a commitment to helping you succeed.
+
+We offer a range of comprehensive courses in web design, web development,
+graphic design, branding, and more. Our mission is to provide you with the
+skills and knowledge needed to excel in today’s digital world.
+
+Whether you’re looking to start a new career or enhance your current skills,
+our carefully crafted programs and hands-on approach ensure that you gain practical,
+real-world experience. Join our community and take the first step towards achieving 
+your goals with us.
+
+
+======== CONTACT ========
+.section__title
+Contact Us Now
+
+.contact__description
+We’d love to hear from you! Whether you have
+questions about our courses, need support, 
+or want to discuss your learning goals, 
+our team is here to help.
+
+.contact__title .contact__info
+Send an Inbox
+emitech@gmail.com
+
+Call Us For Equiry
++234-811-183-8263
++234-813-719-3224
+
+Find us here
+Osubi-Osubi Road-Okpe
+#10 London street
+
+.contact__form 
+Name - Email - Leave a message
+
+.contact__form__description
+We’re committed to providing excellent support
+and look forward to assisting you on your journey
+to mastering digital design and development.
+
+
+
+========== FOOTER ==========
+.footer__logo
+EmiTech
+
+.footer__link
+Terms & Agreements
+Privacy Policy
+
+.footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By EmiTech
